@@ -1,0 +1,71 @@
+{
+  "Title": "[1-1] Nightmare by Robin",
+  "Settings": {
+    "Difficulty": 1,
+    "Roblox": 1,
+    "Speed": 2,
+    "AutoSkip": false,
+    "UpgradeAll": true
+  },
+  "Game": {
+    "Type": 0,
+    "Game": 1,
+    "Night": 1
+  },
+  "Ritual": {
+    "Zoom": true,
+    "Look": false
+  },
+  "Units": [
+    {
+      "X": 494,
+      "Y": 442,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": 0
+    },
+    {
+      "X": 582,
+      "Y": 444,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": 0
+    },
+    {
+      "X": 814,
+      "Y": 439,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 723,
+      "Y": 436,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 632,
+      "Y": 424,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": 0
+    }
+  ],
+  "Share": {
+    "Slot_1": "Paper Pals",
+    "Slot_2": "Withered Freddy",
+    "Slot_3": "",
+    "Slot_4": "",
+    "Slot_5": "",
+    "Slot_6": "",
+    "Notes": "2 Minutes - Both units replaceable.",
+	"URL": "https://discord.com/channels/1286211974908215306/1434179985152938044"
+  }
+}

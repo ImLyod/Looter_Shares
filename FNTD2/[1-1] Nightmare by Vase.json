@@ -1,0 +1,79 @@
+{
+  "Title": "[1-1] Nightmare by Vase",
+  "Settings": {
+    "Difficulty": 1,
+    "Roblox": 1,
+    "Speed": 2,
+    "AutoSkip": false,
+    "UpgradeAll": true
+  },
+  "Game": {
+    "Type": 0,
+    "Game": 1,
+    "Night": 1
+  },
+  "Ritual": {
+    "Zoom": false,
+    "Look": false
+  },
+  "Units": [
+    {
+      "X": 387,
+      "Y": 339,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": 0
+    },
+    {
+      "X": 99,
+      "Y": 341,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": 0
+    },
+    {
+      "X": 368,
+      "Y": 377,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": 0
+    },
+    {
+      "X": 95,
+      "Y": 368,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": 0
+    },
+    {
+      "X": 313,
+      "Y": 431,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 253,
+      "Y": 504,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": 0
+    }
+  ],
+  "Share": {
+    "Slot_1": "Paper Pals",
+    "Slot_2": "Withered Bonnie",
+    "Slot_3": "",
+    "Slot_4": "",
+    "Slot_5": "",
+    "Slot_6": "",
+    "Notes": "Sub 2 minutes - Both units replaceable.",
+	"URL": "https://discord.com/channels/1286211974908215306/1432881800346337411"
+  }
+}

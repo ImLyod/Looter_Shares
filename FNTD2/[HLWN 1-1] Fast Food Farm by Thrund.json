@@ -1,0 +1,119 @@
+{
+  "Title": "[HLWN 1-1] Fast Food Farm by Thrund",
+  "Settings": {
+    "Difficulty": 1,
+    "Roblox": 1,
+    "Speed": 2,
+    "AutoSkip": true,
+    "UpgradeAll": true
+  },
+  "Game": {
+    "Type": 2,
+    "Game": 1,
+    "Night": 1
+  },
+  "Ritual": {
+    "Zoom": false,
+    "Look": false,
+    "Queue": false,
+    "Advanced": {
+      "Enabled": true,
+      "X": 5,
+      "Y": 70,
+      "Hex": 13697281
+    }
+  },
+  "Units": [
+    {
+      "X": 823,
+      "Y": 394,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 885,
+      "Y": 457,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 674,
+      "Y": 392,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 563,
+      "Y": 392,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 723,
+      "Y": 459,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 440,
+      "Y": 330,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": 1
+    },
+    {
+      "X": 432,
+      "Y": 393,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 425,
+      "Y": 459,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 583,
+      "Y": 457,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    }
+  ],
+  "Share": {
+    "Slot_1": "Cupcake",
+    "Slot_2": "Scarecrow Freddy",
+    "Slot_3": "Withered Freddy",
+    "Slot_4": "Paper Pals",
+    "Slot_5": "",
+    "Slot_6": "",
+    "Notes": "1:40 average 1:37 fastest time, best for food",
+	"URL": "https://discord.com/channels/1286211974908215306/1442949663400661183"
+  }
+}
