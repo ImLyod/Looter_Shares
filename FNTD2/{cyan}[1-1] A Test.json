@@ -64,13 +64,25 @@
     }
   ],
   "Share": {
-    "Slot_1": "Shiny PaperPals",
-    "Slot_2": "Not Needed",
-    "Slot_3": "Withered Freddy",
-    "Slot_4": "Withered Golden Freddy",
-    "Slot_5": "Not Needed",
-    "Slot_6": "Not Needed",
+    "Slots": [
+      {
+        "Slot_1": "Shiny PaperPals",
+        "Slot_2": "Not Needed",
+        "Slot_3": "Withered Freddy",
+        "Slot_4": "Withered Golden Freddy",
+        "Slot_5": "Not Needed",
+        "Slot_6": "Not Needed"
+      },
+	  {
+        "Slot_1": "2 Shiny PaperPals",
+        "Slot_2": "2 Not Needed",
+        "Slot_3": "2 Withered Freddy",
+        "Slot_4": "2 Withered Golden Freddy",
+        "Slot_5": "2 Not Needed",
+        "Slot_6": "2 Not Needed"
+      }
+    ],
     "Notes": "this as FAST as i could get it to go. I think it goes faster if paper pals have the economic trait and if the withered freddy has haywire. hope yall enjoy and more importantly farm it.",
-	"URL": "https://discord.com/channels/1286211974908215306/1440019742613180597"
+    "URL": "https://discord.com/channels/1286211974908215306/1440019742613180597"
   }
 }
