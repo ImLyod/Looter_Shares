@@ -1,0 +1,100 @@
+{
+  "Title": "[1-1] Nightmare by Vase",
+  "Settings": {
+    "Difficulty": 1,
+    "Roblox": 1,
+    "Speed": 2,
+    "AutoSkip": false,
+    "UpgradeAll": true
+  },
+  "Game": {
+    "Type": 0,
+    "Game": 1,
+    "Night": 1
+  },
+  "Ritual": {
+    "Zoom": false,
+    "Look": false,
+    "Queue": false,
+    "Advanced": {
+      "Enabled": false,
+      "X": -1,
+      "Y": -1,
+      "Hex": 0
+    }
+  },
+  "Units": [
+    {
+      "X": 387,
+      "Y": 339,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 99,
+      "Y": 341,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 368,
+      "Y": 377,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 95,
+      "Y": 368,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 313,
+      "Y": 431,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 253,
+      "Y": 504,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": -1
+    }
+  ],
+  "Share": {
+    "Author": "Vase",
+    "Notes": "Sub 2 minutes - Both units replaceable.",
+    "URL": "https://discord.com/channels/1286211974908215306/1432881800346337411",
+    "Player_1": {
+      "Unit": [
+        "Paper Pals",
+        "Withered Bonnie",
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "Player_2": null,
+    "Player_3": null,
+    "Player_4": null
+  }
+}
