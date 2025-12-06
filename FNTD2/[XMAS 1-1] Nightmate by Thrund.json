@@ -1,0 +1,100 @@
+{
+  "Title": "[XMAS 1-1] Nightmate by Thrund",
+  "Settings": {
+    "Difficulty": 0,
+    "Roblox": 1,
+    "Speed": 2,
+    "AutoSkip": true,
+    "UpgradeAll": true
+  },
+  "Game": {
+    "Type": 2,
+    "Game": 1,
+    "Night": 1
+  },
+  "Ritual": {
+    "Zoom": false,
+    "Look": false,
+    "Queue": false,
+    "Advanced": {
+      "Enabled": true,
+      "X": 755,
+      "Y": 263,
+      "Hex": 2017023
+    }
+  },
+  "Units": [
+    {
+      "X": 673,
+      "Y": 358,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 406,
+      "Y": 337,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 389,
+      "Y": 369,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 362,
+      "Y": 426,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 607,
+      "Y": 486,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 748,
+      "Y": 502,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": 1
+    }
+  ],
+  "Share": {
+    "Author": "thrund",
+    "Notes": "nightmare mode ",
+    "URL": "https://discord.com/channels/1286211974908215306/1446991966561632376",
+    "Player_1": {
+      "Unit": [
+        "cupcake",
+        "scsrecrow foxy",
+        "withered freddy",
+        "paperpals",
+        null,
+        null
+      ]
+    },
+    "Player_2": null,
+    "Player_3": null,
+    "Player_4": null
+  }
+}
