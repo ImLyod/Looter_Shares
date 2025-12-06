@@ -1,0 +1,127 @@
+{
+  "Title": "[2-1] Nightmare by NickFN",
+  "Settings": {
+    "Difficulty": 0,
+    "Roblox": 1,
+    "Speed": 1,
+    "AutoSkip": true,
+    "UpgradeAll": true
+  },
+  "Game": {
+    "Type": 0,
+    "Game": 1,
+    "Night": 1
+  },
+  "Ritual": {
+    "Zoom": true,
+    "Look": false,
+    "Queue": false,
+    "Advanced": {
+      "Enabled": true,
+      "X": 182,
+      "Y": 204,
+      "Hex": 3313919
+    }
+  },
+  "Units": [
+    {
+      "X": 922,
+      "Y": 393,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 594,
+      "Y": 311,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 613,
+      "Y": 327,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 632,
+      "Y": 349,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 417,
+      "Y": 393,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 497,
+      "Y": 389,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 663,
+      "Y": 380,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 584,
+      "Y": 392,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 53,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 837,
+      "Y": 361,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 53,
+      "Target": -1,
+      "Ability": -1
+    }
+  ],
+  "Share": {
+    "Author": "NickFN",
+    "Notes": "1 Account",
+    "URL": "https://discord.com/channels/1286211974908215306/1431767983348252692",
+    "Player_1": {
+      "Unit": [
+        "Withered Golden Freddy",
+        "Unknown",
+        "Party Glock Freddy",
+        "Withered Freddy",
+        "Withered Foxy",
+        null
+      ]
+    },
+    "Player_2": null,
+    "Player_3": null,
+    "Player_4": null
+  }
+}
