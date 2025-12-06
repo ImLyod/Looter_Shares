@@ -1,0 +1,109 @@
+{
+  "Title": "[XMAS 1-3] Nightmare by Thrund",
+  "Settings": {
+    "Difficulty": 0,
+    "Roblox": 1,
+    "Speed": 2,
+    "AutoSkip": true,
+    "UpgradeAll": true
+  },
+  "Game": {
+    "Type": 2,
+    "Game": 1,
+    "Night": 1
+  },
+  "Ritual": {
+    "Zoom": false,
+    "Look": false,
+    "Queue": false,
+    "Advanced": {
+      "Enabled": true,
+      "X": 329,
+      "Y": 212,
+      "Hex": 16711680
+    }
+  },
+  "Units": [
+    {
+      "X": 91,
+      "Y": 318,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 153,
+      "Y": 322,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 207,
+      "Y": 322,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 86,
+      "Y": 376,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 45,
+      "Y": 426,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 395,
+      "Y": 321,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 343,
+      "Y": 389,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": 1
+    }
+  ],
+  "Share": {
+    "Author": "thrund",
+    "Notes": "nightmare mode",
+    "URL": "https://discord.com/channels/1286211974908215306/1446996681890730024",
+    "Player_1": {
+      "Unit": [
+        "cupcake",
+        "scarecrow freddy",
+        "withered freddy",
+        "paperpals",
+        null,
+        null
+      ]
+    },
+    "Player_2": null,
+    "Player_3": null,
+    "Player_4": null
+  }
+}
