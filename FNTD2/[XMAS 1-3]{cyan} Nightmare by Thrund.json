@@ -94,10 +94,10 @@
     "URL": "https://discord.com/channels/1286211974908215306/1446996681890730024",
     "Player_1": {
       "Unit": [
-        "cupcake",
-        "scarecrow freddy",
-        "withered freddy",
-        "paperpals",
+        "Cupcake",
+        "Scarecrow Freddy",
+        "Withered Freddy",
+        "Paperpals",
         null,
         null
       ]
@@ -107,3 +107,4 @@
     "Player_4": null
   }
 }
+
