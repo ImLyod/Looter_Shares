@@ -1,0 +1,217 @@
+{
+  "Title": "[XMAS END1] by Thrund",
+  "Settings": {
+    "Difficulty": 0,
+    "Roblox": 1,
+    "Speed": 2,
+    "AutoSkip": true,
+    "UpgradeAll": true
+  },
+  "Game": {
+    "Type": 1,
+    "Game": 1,
+    "Night": 1
+  },
+  "Ritual": {
+    "Zoom": true,
+    "Look": false,
+    "Queue": false,
+    "Advanced": {
+      "Enabled": true,
+      "X": 202,
+      "Y": 286,
+      "Hex": 16713999
+    }
+  },
+  "Units": [
+    {
+      "X": 600,
+      "Y": 313,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 1,
+      "Upgrade": "E1M",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 842,
+      "Y": 470,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 218,
+      "Y": 461,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 803,
+      "Y": 411,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 54,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 684,
+      "Y": 273,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 54,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 777,
+      "Y": 389,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 599,
+      "Y": 263,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 613,
+      "Y": 270,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 653,
+      "Y": 269,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 53,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 825,
+      "Y": 435,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 53,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 743,
+      "Y": 405,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 1,
+      "Upgrade": "E1M2",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 415,
+      "Y": 430,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 54,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 538,
+      "Y": 436,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 363,
+      "Y": 435,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 53,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 550,
+      "Y": 472,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 606,
+      "Y": 304,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 683,
+      "Y": 371,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    }
+  ],
+  "Share": {
+    "Author": "thrund",
+    "Notes": "easy for gingerbreads, nightmare for xp",
+    "URL": "https://discord.com/channels/1286211974908215306/1335104697274732585",
+    "Player_1": {
+      "Unit": [
+        "Shadow Freddy",
+        "Wiithered Bonnie",
+        "Dreadbear",
+        "JJ",
+        "Slasher Bonnie",
+        "Withered Freddy"
+      ]
+    },
+    "Player_2": null,
+    "Player_3": null,
+    "Player_4": null
+  }
+}
