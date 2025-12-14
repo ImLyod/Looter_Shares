@@ -1,0 +1,55 @@
+{
+  "Title": "[XMAS-SPECIAL] Death Farm",
+  "Settings": {
+    "Difficulty": 0,
+    "Roblox": 1,
+    "Speed": 2,
+    "AutoSkip": true,
+    "UpgradeAll": false
+  },
+  "Game": {
+    "Type": 0,
+    "Game": 1,
+    "Night": 1
+  },
+  "Ritual": {
+    "Zoom": true,
+    "Look": false,
+    "Queue": false,
+    "Advanced": {
+      "Enabled": true,
+      "X": 809,
+      "Y": 263,
+      "Hex": 16713484
+    }
+  },
+  "Units": [
+    {
+      "X": 67,
+      "Y": 67,
+      "Window": 1,
+      "Upgrade": "DEATH",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    }
+  ],
+  "Share": {
+    "Author": "Looter",
+    "Notes": "5 Presents a Minute w/ 4 Accounts.\n\nNo Units required.",
+    "URL": "https://discord.com/channels/1286211974908215306/1335104697274732585",
+    "Player_1": {
+      "Unit": [
+        "No Units Needed",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "Player_2": null,
+    "Player_3": null,
+    "Player_4": null
+  }
+}
