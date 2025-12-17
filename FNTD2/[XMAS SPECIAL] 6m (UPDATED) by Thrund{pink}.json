@@ -1,5 +1,5 @@
 {
-  "Title": "[XMAS SPECIAL] 7m by Thrund",
+  "Title": "[XMAS SPECIAL] 6m (UPDATED) by Thrund",
   "Settings": {
     "Difficulty": 0,
     "Roblox": 1,
@@ -18,9 +18,9 @@
     "Queue": false,
     "Advanced": {
       "Enabled": true,
-      "X": 808,
-      "Y": 263,
-      "Hex": 16713228
+      "X": 354,
+      "Y": 247,
+      "Hex": 16714513
     }
   },
   "Units": [
@@ -43,8 +43,8 @@
       "Ability": -1
     },
     {
-      "X": 338,
-      "Y": 449,
+      "X": 648,
+      "Y": 351,
       "Window": 1,
       "Upgrade": "N",
       "Key": 54,
@@ -61,8 +61,8 @@
       "Ability": -1
     },
     {
-      "X": 665,
-      "Y": 367,
+      "X": 545,
+      "Y": 397,
       "Window": 1,
       "Upgrade": "N",
       "Key": 54,
@@ -124,7 +124,16 @@
       "Ability": -1
     },
     {
-      "X": 320,
+      "X": 657,
+      "Y": 126,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 308,
       "Y": 315,
       "Window": 1,
       "Upgrade": "N",
@@ -160,8 +169,8 @@
       "Ability": -1
     },
     {
-      "X": 485,
-      "Y": 483,
+      "X": 479,
+      "Y": 482,
       "Window": 1,
       "Upgrade": "N",
       "Key": 52,
@@ -196,17 +205,8 @@
       "Ability": -1
     },
     {
-      "X": 657,
-      "Y": 126,
-      "Window": 1,
-      "Upgrade": "CLICK",
-      "Key": 49,
-      "Target": -1,
-      "Ability": -1
-    },
-    {
-      "X": 500,
-      "Y": 332,
+      "X": 328,
+      "Y": 362,
       "Window": 1,
       "Upgrade": "N",
       "Key": 52,
@@ -259,29 +259,11 @@
       "Ability": -1
     },
     {
-      "X": 718,
-      "Y": 332,
+      "X": 724,
+      "Y": 333,
       "Window": 1,
       "Upgrade": "N",
       "Key": 50,
-      "Target": -1,
-      "Ability": -1
-    },
-    {
-      "X": 356,
-      "Y": 318,
-      "Window": 1,
-      "Upgrade": "N",
-      "Key": 52,
-      "Target": -1,
-      "Ability": -1
-    },
-    {
-      "X": 286,
-      "Y": 315,
-      "Window": 1,
-      "Upgrade": "N",
-      "Key": 53,
       "Target": -1,
       "Ability": -1
     },
@@ -291,6 +273,33 @@
       "Window": 1,
       "Upgrade": "N",
       "Key": 50,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 1,
+      "Upgrade": "SM2",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 313,
+      "Y": 404,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 120,
+      "Y": 472,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 53,
       "Target": -1,
       "Ability": -1
     }
@@ -314,3 +323,4 @@
     "Player_4": null
   }
 }
+
