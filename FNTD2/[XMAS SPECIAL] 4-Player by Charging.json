@@ -1,0 +1,307 @@
+{
+  "Title": "[XMAS SPECIAL] 4-Player by Charging",
+  "Settings": {
+    "Difficulty": 0,
+    "Roblox": 4,
+    "Speed": 1,
+    "AutoSkip": false,
+    "UpgradeAll": true
+  },
+  "Game": {
+    "Type": 1,
+    "Game": 1,
+    "Night": 1
+  },
+  "Ritual": {
+    "Zoom": true,
+    "Look": true,
+    "Queue": false,
+    "Advanced": {
+      "Enabled": false,
+      "X": -1,
+      "Y": -1,
+      "Hex": 0
+    }
+  },
+  "Units": [
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 1,
+      "Upgrade": "SM1",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 1,
+      "Upgrade": "SM2",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 280,
+      "Y": 170,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 2,
+      "Upgrade": "SM3",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 487,
+      "Y": 279,
+      "Window": 2,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 3,
+      "Upgrade": "SM1",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 421,
+      "Y": 240,
+      "Window": 3,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 529,
+      "Y": 315,
+      "Window": 4,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 327,
+      "Y": 213,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 547,
+      "Y": 278,
+      "Window": 2,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 425,
+      "Y": 281,
+      "Window": 2,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 463,
+      "Y": 284,
+      "Window": 3,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 531,
+      "Y": 389,
+      "Window": 4,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 533,
+      "Y": 248,
+      "Window": 4,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 371,
+      "Y": 253,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": 1
+    },
+    {
+      "X": 487,
+      "Y": 225,
+      "Window": 2,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": 1
+    },
+    {
+      "X": 411,
+      "Y": 308,
+      "Window": 3,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": 1
+    },
+    {
+      "X": 476,
+      "Y": 291,
+      "Window": 4,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": 1
+    },
+    {
+      "X": 659,
+      "Y": 129,
+      "Window": 4,
+      "Upgrade": "CLICK",
+      "Key": 54,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 450,
+      "Y": 258,
+      "Window": 2,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 433,
+      "Y": 228,
+      "Window": 2,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 501,
+      "Y": 414,
+      "Window": 4,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 323,
+      "Y": 271,
+      "Window": 2,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 321,
+      "Y": 160,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 297,
+      "Y": 242,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 496,
+      "Y": 366,
+      "Window": 4,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    }
+  ],
+  "Share": {
+    "Author": "Charging",
+    "Notes": "Made for 4-Player.\n\n",
+    "URL": "https://discord.com/channels/1286211974908215306/1450721892292886570",
+    "Player_1": {
+      "Unit": [
+        "Conductor Toy Freddy",
+        "Scarecrow Freddy",
+        "Purple Guy",
+        null,
+        null,
+        null
+      ]
+    },
+    "Player_2": {
+      "Unit": [
+        "Conductor Toy Freddy",
+        "Scarecrow Freddy",
+        "Purple Guy",
+        "Headless Horseman",
+        null,
+        null
+      ]
+    },
+    "Player_3": {
+      "Unit": [
+        "Conductor Toy Freddy",
+        "Scarecrow Freddy",
+        "",
+        null,
+        null,
+        null
+      ]
+    },
+    "Player_4": {
+      "Unit": [
+        "Conductor Toy Freddy",
+        "Scarecrow Freddy",
+        "Purple Guy",
+        null,
+        null,
+        null
+      ]
+    }
+  }
+}
