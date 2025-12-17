@@ -261,7 +261,7 @@
   ],
   "Share": {
     "Author": "Charging",
-    "Notes": "Made for 4-Player.\n\n",
+    "Notes": "Made for 4-Player. -\n\nSET FPS TO 25-30 & GRAPHICS TO LOWEST.",
     "URL": "https://discord.com/channels/1286211974908215306/1450721892292886570",
     "Player_1": {
       "Unit": [
@@ -306,4 +306,5 @@
   }
 
 }
+
 
