@@ -5,7 +5,9 @@
     "Roblox": 1,
     "Speed": 2,
     "AutoSkip": false,
-    "UpgradeAll": false
+    "UpgradeAll": false,
+    "RemoveAll": false,
+    "RemoveAlltimer": 1
   },
   "Game": {
     "Type": 1,
@@ -97,7 +99,7 @@
       "Ability": -1
     },
     {
-      "X": 28,
+      "X": 54,
       "Y": 289,
       "Window": 1,
       "Upgrade": "N",
@@ -115,8 +117,8 @@
       "Ability": -1
     },
     {
-      "X": 26,
-      "Y": 511,
+      "X": 92,
+      "Y": 476,
       "Window": 1,
       "Upgrade": "N",
       "Key": 51,
@@ -151,33 +153,25 @@
       "Ability": -1
     },
     {
-      "X": 500,
-      "Y": 298,
-      "Window": 1,
-      "Upgrade": "N",
-      "Key": 54,
-      "Target": -1,
-      "Ability": -1
-    },
-    {
       "X": 0,
       "Y": 0,
       "Window": 1,
-      "Upgrade": "SM1",
+      "Upgrade": "SM2",
       "Key": 0,
       "Target": -1,
       "Ability": -1
     },
     {
-      "X": 529,
-      "Y": 284,
+      "X": 695,
+      "Y": 340,
       "Window": 1,
       "Upgrade": "N",
-      "Key": 53,
+      "Key": 54,
       "Target": -1,
       "Ability": -1
     }
   ],
+  "UnitsMulti": null,
   "Share": {
     "Author": "",
     "Notes": "Testing Purposes",
