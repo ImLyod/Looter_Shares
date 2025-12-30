@@ -1,13 +1,13 @@
 {
-  "Title": "[END3] Basic by OscarHater",
+  "Title": "[END3] Basic 1P-4P by OscarHater",
   "Settings": {
     "Difficulty": 0,
-    "Roblox": 1,
+    "Roblox": 2,
     "Speed": 2,
     "AutoSkip": true,
     "UpgradeAll": false,
     "RemoveAll": true,
-    "RemoveAlltimer": 290
+    "RemoveAlltimer": 430
   },
   "Game": {
     "Type": 1,
@@ -32,6 +32,24 @@
       "Window": 1,
       "Upgrade": "N",
       "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 333,
+      "Y": 432,
+      "Window": 2,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 2,
+      "Upgrade": "UPGDALL",
+      "Key": 0,
       "Target": -1,
       "Ability": -1
     },
@@ -241,12 +259,57 @@
       "Key": 49,
       "Target": -1,
       "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 2,
+      "Upgrade": "TURN90",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 2,
+      "Upgrade": "LBMF",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 2,
+      "Upgrade": "RLBMR",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 746,
+      "Y": 587,
+      "Window": 2,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 176,
+      "Y": 540,
+      "Window": 2,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": -1
     }
   ],
   "UnitsMulti": null,
   "Share": {
     "Author": "I Hate Oscar",
-    "Notes": "Set Sensitvity to 1 & Shift Lock On\n\nALL UNITS ARE REPLACEABLE\n9 Minutes\nWorks with 1P -> 4P",
+    "Notes": "ALL UNITS ARE REPLACEABLE\n9-10 Minutes\n\nMulti-Account Compatible.\nCheck Player 2 Loadout",
     "URL": "https://discord.com/channels/1286211974908215306/1455359737141919936",
     "Player_1": {
       "Unit": [
@@ -258,10 +321,17 @@
         "Scarecrow Freddy"
       ]
     },
-    "Player_2": null,
+    "Player_2": {
+      "Unit": [
+        "PaperPals",
+        "Withered Freddy / Any 2 Placement",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
     "Player_3": null,
     "Player_4": null
   }
 }
-
-
