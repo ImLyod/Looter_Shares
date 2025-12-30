@@ -7,7 +7,7 @@
     "AutoSkip": true,
     "UpgradeAll": false,
     "RemoveAll": true,
-    "RemoveAlltimer": 300
+    "RemoveAlltimer": 290
   },
   "Game": {
     "Type": 1,
