@@ -174,7 +174,7 @@
   "UnitsMulti": null,
   "Share": {
     "Author": "Rfccan",
-    "Notes": "Ends around wave 95\nTakes about 10 mins",
+    "Notes": "Set Sensitvity to 1 & Shift Lock On\n\nEnds around wave 95\nTakes about 10 mins",
     "URL": "https://discord.com/channels/1286211974908215306/1455369691425144904",
     "Player_1": {
       "Unit": [
@@ -190,4 +190,5 @@
     "Player_3": null,
     "Player_4": null
   }
+
 }
