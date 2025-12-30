@@ -7,7 +7,7 @@
     "AutoSkip": true,
     "UpgradeAll": false,
     "RemoveAll": true,
-    "RemoveAlltimer": 400
+    "RemoveAlltimer": 300
   },
   "Game": {
     "Type": 1,
@@ -199,7 +199,7 @@
     },
     {
       "X": 507,
-      "Y": 401,
+      "Y": 398,
       "Window": 1,
       "Upgrade": "N",
       "Key": 53,
