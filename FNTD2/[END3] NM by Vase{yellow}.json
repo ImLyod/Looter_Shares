@@ -19,10 +19,10 @@
     "Look": false,
     "Queue": false,
     "Advanced": {
-      "Enabled": true,
-      "X": 7,
-      "Y": 289,
-      "Hex": 2330111
+      "Enabled": false,
+      "X": -1,
+      "Y": -1,
+      "Hex": 0
     }
   },
   "Units": [
@@ -37,7 +37,7 @@
     },
     {
       "X": 325,
-      "Y": 389,
+      "Y": 398,
       "Window": 1,
       "Upgrade": "N",
       "Key": 49,
@@ -45,8 +45,8 @@
       "Ability": -1
     },
     {
-      "X": 471,
-      "Y": 347,
+      "X": 694,
+      "Y": 398,
       "Window": 1,
       "Upgrade": "N",
       "Key": 49,
@@ -54,7 +54,16 @@
       "Ability": -1
     },
     {
-      "X": 686,
+      "X": 456,
+      "Y": 380,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 605,
       "Y": 397,
       "Window": 1,
       "Upgrade": "N",
@@ -63,17 +72,8 @@
       "Ability": -1
     },
     {
-      "X": 587,
-      "Y": 396,
-      "Window": 1,
-      "Upgrade": "N",
-      "Key": 49,
-      "Target": -1,
-      "Ability": -1
-    },
-    {
-      "X": 637,
-      "Y": 393,
+      "X": 634,
+      "Y": 378,
       "Window": 1,
       "Upgrade": "N",
       "Key": 51,
@@ -81,8 +81,8 @@
       "Ability": -1
     },
     {
-      "X": 372,
-      "Y": 345,
+      "X": 374,
+      "Y": 343,
       "Window": 1,
       "Upgrade": "N",
       "Key": 51,
@@ -90,8 +90,8 @@
       "Ability": -1
     },
     {
-      "X": 557,
-      "Y": 368,
+      "X": 803,
+      "Y": 385,
       "Window": 1,
       "Upgrade": "N",
       "Key": 52,
@@ -99,8 +99,8 @@
       "Ability": -1
     },
     {
-      "X": 514,
-      "Y": 351,
+      "X": 438,
+      "Y": 421,
       "Window": 1,
       "Upgrade": "N",
       "Key": 52,
@@ -108,26 +108,8 @@
       "Ability": -1
     },
     {
-      "X": 593,
-      "Y": 473,
-      "Window": 1,
-      "Upgrade": "N",
-      "Key": 53,
-      "Target": -1,
-      "Ability": -1
-    },
-    {
-      "X": 457,
-      "Y": 306,
-      "Window": 1,
-      "Upgrade": "N",
-      "Key": 53,
-      "Target": -1,
-      "Ability": -1
-    },
-    {
-      "X": 396,
-      "Y": 405,
+      "X": 562,
+      "Y": 367,
       "Window": 1,
       "Upgrade": "N",
       "Key": 50,
@@ -135,8 +117,26 @@
       "Ability": -1
     },
     {
-      "X": 738,
-      "Y": 463,
+      "X": 541,
+      "Y": 480,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 53,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 288,
+      "Y": 408,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 53,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 758,
+      "Y": 475,
       "Window": 1,
       "Upgrade": "N",
       "Key": 54,
@@ -144,8 +144,8 @@
       "Ability": -1
     },
     {
-      "X": 450,
-      "Y": 442,
+      "X": 50,
+      "Y": 533,
       "Window": 1,
       "Upgrade": "N",
       "Key": 54,
