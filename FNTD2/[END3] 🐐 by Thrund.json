@@ -1,0 +1,202 @@
+{
+  "Title": "[END3] 🐐 by Thrund",
+  "Settings": {
+    "Difficulty": 0,
+    "Roblox": 1,
+    "Speed": 2,
+    "AutoSkip": true,
+    "UpgradeAll": true,
+    "RemoveAll": false,
+    "RemoveAlltimer": 1
+  },
+  "Game": {
+    "Type": 1,
+    "Game": 1,
+    "Night": 1
+  },
+  "Ritual": {
+    "Zoom": true,
+    "Look": false,
+    "Queue": false,
+    "Advanced": {
+      "Enabled": true,
+      "X": 5,
+      "Y": 285,
+      "Hex": 1537279
+    }
+  },
+  "Units": [
+    {
+      "X": 598,
+      "Y": 360,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 1,
+      "Upgrade": "RLBMB",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 1,
+      "Upgrade": "TURN90",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 1,
+      "Upgrade": "RLBMB",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 373,
+      "Y": 494,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 538,
+      "Y": 301,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 758,
+      "Y": 476,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 430,
+      "Y": 288,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 600,
+      "Y": 387,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 624,
+      "Y": 453,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 53,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 534,
+      "Y": 437,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 54,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 447,
+      "Y": 437,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 54,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 438,
+      "Y": 519,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 1,
+      "Upgrade": "LBMF",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 455,
+      "Y": 333,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 524,
+      "Y": 335,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 487,
+      "Y": 332,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": -1,
+      "Ability": -1
+    }
+  ],
+  "UnitsMulti": null,
+  "Share": {
+    "Author": "Thrund",
+    "Notes": "10-11 mins time\n⤷ Camera Sensitivity: 1\n⤷ Shift Lock Switch: ON",
+    "URL": "https://discord.com/channels/1286211974908215306/1455818956643369084",
+    "Player_1": {
+      "Unit": [
+        "Withered Bonnie",
+        "Withered Freddy",
+        "Toy Maker Mangle",
+        "Purple Guy",
+        "Headless Horseman Mangle",
+        "Scrooge Freddy"
+      ]
+    },
+    "Player_2": null,
+    "Player_3": null,
+    "Player_4": null
+  }
+}
