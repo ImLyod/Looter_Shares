@@ -72,8 +72,8 @@
       "Ability": -1
     },
     {
-      "X": 539,
-      "Y": 344,
+      "X": 700,
+      "Y": 435,
       "Window": 1,
       "Upgrade": "N",
       "Key": 50,
@@ -153,8 +153,8 @@
       "Ability": -1
     },
     {
-      "X": 524,
-      "Y": 376,
+      "X": 632,
+      "Y": 468,
       "Window": 1,
       "Upgrade": "N",
       "Key": 49,
@@ -190,5 +190,4 @@
     "Player_3": null,
     "Player_4": null
   }
-
 }
