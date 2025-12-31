@@ -31,7 +31,7 @@
       "Y": 300,
       "Window": 1,
       "Upgrade": "Y",
-      "Key": 50,
+      "Key": 49,
       "Target": -1,
       "Ability": -1
     },
@@ -40,7 +40,7 @@
       "Y": 353,
       "Window": 1,
       "Upgrade": "N",
-      "Key": 50,
+      "Key": 49,
       "Target": -1,
       "Ability": -1
     }
