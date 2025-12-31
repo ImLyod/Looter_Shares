@@ -1,0 +1,67 @@
+{
+  "Title": "[END3] 2min by Looter",
+  "Settings": {
+    "Difficulty": 0,
+    "Roblox": 1,
+    "Speed": 2,
+    "AutoSkip": false,
+    "UpgradeAll": false,
+    "RemoveAll": true,
+    "RemoveAlltimer": 45
+  },
+  "Game": {
+    "Type": 1,
+    "Game": 1,
+    "Night": 1
+  },
+  "Ritual": {
+    "Zoom": false,
+    "Look": false,
+    "Queue": false,
+    "Advanced": {
+      "Enabled": false,
+      "X": -1,
+      "Y": -1,
+      "Hex": 0
+    }
+  },
+  "Units": [
+    {
+      "X": 661,
+      "Y": 300,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 50,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 399,
+      "Y": 353,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": -1
+    }
+  ],
+  "UnitsMulti": null,
+  "Share": {
+    "Author": "Looter",
+    "Notes": "If you are dying before wave 10, increase the timer for Remove All.",
+    "URL": "https://discord.com/channels/1286211974908215306/1455815895149711504",
+    "Player_1": {
+      "Unit": [
+        "PaperPals (Level 60)",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "Player_2": null,
+    "Player_3": null,
+    "Player_4": null
+  }
+}
