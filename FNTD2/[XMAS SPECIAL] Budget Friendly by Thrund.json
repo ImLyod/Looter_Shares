@@ -1,0 +1,229 @@
+{
+  "Title": "[XMAS SPECIAL] Budget Friendly by Thrund",
+  "Settings": {
+    "Difficulty": 0,
+    "Roblox": 1,
+    "Speed": 1,
+    "AutoSkip": true,
+    "UpgradeAll": false,
+    "RemoveAll": false,
+    "RemoveAlltimer": 1
+  },
+  "Game": {
+    "Type": 1,
+    "Game": 1,
+    "Night": 1
+  },
+  "Ritual": {
+    "Zoom": true,
+    "Look": false,
+    "Queue": false,
+    "Advanced": {
+      "Enabled": true,
+      "X": 809,
+      "Y": 264,
+      "Hex": 16713228
+    }
+  },
+  "Units": [
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 1,
+      "Upgrade": "TURN90",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 152,
+      "Y": 293,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 695,
+      "Y": 282,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 585,
+      "Y": 342,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 436,
+      "Y": 273,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 53,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 161,
+      "Y": 343,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 659,
+      "Y": 124,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 590,
+      "Y": 268,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 756,
+      "Y": 390,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 53,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 387,
+      "Y": 267,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 53,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 1,
+      "Upgrade": "RTURN90",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 1,
+      "Upgrade": "SM3",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 473,
+      "Y": 334,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 54,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 381,
+      "Y": 342,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 778,
+      "Y": 512,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 1,
+      "Upgrade": "RSM3",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 698,
+      "Y": 282,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 54,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 665,
+      "Y": 282,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 646,
+      "Y": 281,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 1,
+      "Upgrade": "UPGDALL",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    }
+  ],
+  "UnitsMulti": null,
+  "Share": {
+    "Author": "Thrund",
+    "Notes": "⤷ Camera sensitivity = 1\n⤷ Shift lock = ON\n⤷ Camera mode = Classic (default)\n\n5:50-6:30 time average\nEnough dps for 4 accs dw\n25-30 fps recommended",
+    "URL": "https://discord.com/channels/1286211974908215306/1459494333995810938",
+    "Player_1": {
+      "Unit": [
+        "JJ",
+        "Cloaked Sparky / Turkey chica / Party Glock Freddy",
+        "Krampus Purple Guy / Frostmancer",
+        "Purple Guy",
+        "Withered Bonnie",
+        "Toy Maker Mangle"
+      ]
+    },
+    "Player_2": null,
+    "Player_3": null,
+    "Player_4": null
+  }
+}
