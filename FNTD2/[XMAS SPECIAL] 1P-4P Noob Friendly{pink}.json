@@ -54,8 +54,8 @@
       "Ability": -1
     },
     {
-      "X": 383,
-      "Y": 267,
+      "X": 415,
+      "Y": 274,
       "Window": 2,
       "Upgrade": "N",
       "Key": 49,
@@ -108,20 +108,20 @@
       "Ability": -1
     },
     {
+      "X": 617,
+      "Y": 280,
+      "Window": 2,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
       "X": 0,
       "Y": 0,
       "Window": 1,
       "Upgrade": "UPGDALL",
       "Key": 0,
-      "Target": -1,
-      "Ability": -1
-    },
-    {
-      "X": 585,
-      "Y": 278,
-      "Window": 2,
-      "Upgrade": "N",
-      "Key": 49,
       "Target": -1,
       "Ability": -1
     },
@@ -162,8 +162,17 @@
       "Ability": -1
     },
     {
-      "X": 635,
-      "Y": 418,
+      "X": 98,
+      "Y": 389,
+      "Window": 2,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 539,
+      "Y": 301,
       "Window": 3,
       "Upgrade": "N",
       "Key": 49,
@@ -185,15 +194,6 @@
       "Window": 1,
       "Upgrade": "UPGDALL",
       "Key": 0,
-      "Target": -1,
-      "Ability": -1
-    },
-    {
-      "X": 539,
-      "Y": 301,
-      "Window": 3,
-      "Upgrade": "N",
-      "Key": 49,
       "Target": -1,
       "Ability": -1
     },
@@ -423,7 +423,7 @@
     },
     "Player_3": {
       "Unit": [
-        "PaperPals",
+        "PaperPals (Phantom)",
         "",
         "",
         "",
@@ -433,7 +433,7 @@
     },
     "Player_4": {
       "Unit": [
-        "JJ / PaperPals",
+        "JJ / PaperPals (Phantom)",
         "",
         "",
         "",
