@@ -2,7 +2,7 @@
   "Title": "Special test By Oscarso11.",
   "Settings": {
     "Difficulty": 0,
-    "Roblox": 4,
+    "Roblox": 2,
     "Speed": 1,
     "AutoSkip": true,
     "UpgradeAll": true,
@@ -261,8 +261,8 @@
       "Ability": -1
     },
     {
-      "X": 839,
-      "Y": 544,
+      "X": 767,
+      "Y": 497,
       "Window": 1,
       "Upgrade": "N",
       "Key": 54,
@@ -288,8 +288,8 @@
       "Ability": -1
     },
     {
-      "X": 584,
-      "Y": 391,
+      "X": 432,
+      "Y": 319,
       "Window": 2,
       "Upgrade": "N",
       "Key": 50,
@@ -297,8 +297,8 @@
       "Ability": -1
     },
     {
-      "X": 563,
-      "Y": 488,
+      "X": 580,
+      "Y": 332,
       "Window": 2,
       "Upgrade": "N",
       "Key": 50,
@@ -306,74 +306,11 @@
       "Ability": -1
     },
     {
-      "X": 605,
-      "Y": 492,
+      "X": 487,
+      "Y": 413,
       "Window": 2,
       "Upgrade": "N",
       "Key": 50,
-      "Target": -1,
-      "Ability": -1
-    },
-    {
-      "X": 0,
-      "Y": 0,
-      "Window": 3,
-      "Upgrade": "SM1",
-      "Key": 0,
-      "Target": -1,
-      "Ability": -1
-    },
-    {
-      "X": 620,
-      "Y": 456,
-      "Window": 3,
-      "Upgrade": "N",
-      "Key": 49,
-      "Target": -1,
-      "Ability": -1
-    },
-    {
-      "X": 405,
-      "Y": 224,
-      "Window": 3,
-      "Upgrade": "N",
-      "Key": 49,
-      "Target": -1,
-      "Ability": -1
-    },
-    {
-      "X": 559,
-      "Y": 299,
-      "Window": 3,
-      "Upgrade": "N",
-      "Key": 49,
-      "Target": -1,
-      "Ability": -1
-    },
-    {
-      "X": 528,
-      "Y": 439,
-      "Window": 4,
-      "Upgrade": "N",
-      "Key": 49,
-      "Target": -1,
-      "Ability": -1
-    },
-    {
-      "X": 483,
-      "Y": 436,
-      "Window": 4,
-      "Upgrade": "N",
-      "Key": 49,
-      "Target": -1,
-      "Ability": -1
-    },
-    {
-      "X": 530,
-      "Y": 310,
-      "Window": 4,
-      "Upgrade": "N",
-      "Key": 49,
       "Target": -1,
       "Ability": -1
     }
@@ -406,5 +343,4 @@
     "Player_3": null,
     "Player_4": null
   }
-
 }
