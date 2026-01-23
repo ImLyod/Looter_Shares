@@ -1,0 +1,542 @@
+{
+  "Title": "[BossRaid] Wave 50 by TwoTime",
+  "Settings": {
+    "Difficulty": 0,
+    "Roblox": 1,
+    "Speed": 2,
+    "AutoSkip": false,
+    "UpgradeAll": true,
+    "RemoveAll": false,
+    "RemoveAlltimer": 1,
+    "StopBossSwap": true
+  },
+  "Game": {
+    "Type": 3,
+    "Game": 1,
+    "Night": 1
+  },
+  "Ritual": {
+    "Zoom": true,
+    "Look": true,
+    "Queue": false,
+    "Advanced": {
+      "Enabled": false,
+      "X": -1,
+      "Y": -1,
+      "Hex": 0
+    }
+  },
+  "Units": null,
+  "UnitsMulti": [
+    [
+      {
+        "X": 143,
+        "Y": 359,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 49,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 157,
+        "Y": 273,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 49,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "LBMF",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 528,
+        "Y": 187,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 50,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 486,
+        "Y": 231,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 52,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "RLBML",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "RLBML",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "RLBML",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "LBMR",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 716,
+        "Y": 419,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 50,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 691,
+        "Y": 312,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 51,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 702,
+        "Y": 345,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 54,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "RLBMF",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "RLBMF",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "LBMB",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "LBML",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "RLBMB",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 408,
+        "Y": 409,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 50,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 283,
+        "Y": 408,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 51,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 343,
+        "Y": 421,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 53,
+        "Target": -1,
+        "Ability": -1
+      }
+    ],
+    [
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "LBMF",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 290,
+        "Y": 225,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 49,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "RLBMF",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "RLBML",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 666,
+        "Y": 276,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 49,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 662,
+        "Y": 309,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 50,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 636,
+        "Y": 198,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 54,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 678,
+        "Y": 192,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 51,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 154,
+        "Y": 471,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 53,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "RLBMF",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "LBML",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "LBMB",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 235,
+        "Y": 476,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 52,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 195,
+        "Y": 545,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 50,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "LBML",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "LBML",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "LBML",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "LBMF",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "LBML",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 336,
+        "Y": 210,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 50,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 340,
+        "Y": 243,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 51,
+        "Target": -1,
+        "Ability": -1
+      }
+    ],
+    [
+      {
+        "X": 442,
+        "Y": 304,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 49,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "LBMF",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 468,
+        "Y": 370,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 49,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 232,
+        "Y": 361,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 49,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "LBMF",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 782,
+        "Y": 502,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 50,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 472,
+        "Y": 267,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 50,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 134,
+        "Y": 272,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 50,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 122,
+        "Y": 331,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 52,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 739,
+        "Y": 511,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 53,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 755,
+        "Y": 468,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 51,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 452,
+        "Y": 240,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 51,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 410,
+        "Y": 280,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 54,
+        "Target": -1,
+        "Ability": -1
+      }
+    ]
+  ],
+  "Share": {
+    "Author": "TwoTime (Chip)",
+    "Notes": "Go to discussion page for unit replacements :)!",
+    "URL": "https://discord.com/channels/1286211974908215306/1463877234765856892",
+    "Player_1": {
+      "Unit": [
+        "Conductor Freddy",
+        "Withered Freddy",
+        "Scrooge Freddy",
+        "Headless Horseman Mangle",
+        "Frozen King Foxy",
+        "Spring Duo"
+      ]
+    },
+    "Player_2": null,
+    "Player_3": null,
+    "Player_4": null
+  }
+}
