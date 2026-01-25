@@ -1,0 +1,614 @@
+{
+  "Title": "[BossRaid] Wave 50 by Thrund",
+  "Settings": {
+    "Difficulty": 0,
+    "Roblox": 1,
+    "Speed": 2,
+    "AutoSkip": true,
+    "UpgradeAll": false,
+    "RemoveAll": false,
+    "RemoveAlltimer": 1,
+    "StopBossSwap": true
+  },
+  "Game": {
+    "Type": 3,
+    "Game": 1,
+    "Night": 1
+  },
+  "Ritual": {
+    "Zoom": true,
+    "Look": false,
+    "Queue": false,
+    "Advanced": {
+      "Enabled": false,
+      "X": -1,
+      "Y": -1,
+      "Hex": 0
+    }
+  },
+  "Units": null,
+  "UnitsMulti": [
+    [
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "TURN90",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 248,
+        "Y": 333,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 49,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 619,
+        "Y": 290,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 49,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 403,
+        "Y": 270,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 49,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 558,
+        "Y": 291,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 54,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 219,
+        "Y": 330,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 54,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 442,
+        "Y": 271,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 54,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 173,
+        "Y": 332,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 52,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 203,
+        "Y": 336,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 53,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 621,
+        "Y": 293,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 50,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 641,
+        "Y": 294,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 51,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "LBMF",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 385,
+        "Y": 288,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 50,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 451,
+        "Y": 280,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 51,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "UPGDALL",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "UPGDALL",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 132,
+        "Y": 351,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 50,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 181,
+        "Y": 353,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 51,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "UPGDALL",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "UPGDALL",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "UPGDALL",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      }
+    ],
+    [
+      {
+        "X": 716,
+        "Y": 336,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 49,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "RTURN90",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 230,
+        "Y": 304,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 49,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 620,
+        "Y": 296,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 49,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 86,
+        "Y": 590,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 54,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 537,
+        "Y": 265,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 54,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 259,
+        "Y": 290,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 54,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 205,
+        "Y": 302,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 52,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 203,
+        "Y": 307,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 53,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 222,
+        "Y": 593,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 51,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 736,
+        "Y": 570,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 50,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 96,
+        "Y": 328,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 50,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 139,
+        "Y": 328,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 51,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "LBMF",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "LBMF",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "UPGDALL",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "UPGDALL",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 506,
+        "Y": 277,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 50,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 487,
+        "Y": 280,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 51,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "UPGDALL",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "UPGDALL",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "UPGDALL",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      }
+    ],
+    [
+      {
+        "X": 719,
+        "Y": 317,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 49,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 506,
+        "Y": 284,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 49,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 260,
+        "Y": 285,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 49,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 711,
+        "Y": 330,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 54,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 287,
+        "Y": 286,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 54,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 484,
+        "Y": 285,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 54,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 247,
+        "Y": 289,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 53,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 280,
+        "Y": 291,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 52,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 685,
+        "Y": 329,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 50,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 701,
+        "Y": 340,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 51,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 501,
+        "Y": 289,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 50,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 481,
+        "Y": 289,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 51,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "UPGDALL",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "UPGDALL",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 302,
+        "Y": 286,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 50,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 259,
+        "Y": 292,
+        "Window": 1,
+        "Upgrade": "N",
+        "Key": 51,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "UPGDALL",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "UPGDALL",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      },
+      {
+        "X": 0,
+        "Y": 0,
+        "Window": 1,
+        "Upgrade": "UPGDALL",
+        "Key": 0,
+        "Target": -1,
+        "Ability": -1
+      }
+    ]
+  ],
+  "Share": {
+    "Author": "Thrund",
+    "Notes": "4:15-4:45 average time\n⤷ Camera sensitivity = 1\n⤷ Shift lock = ON\n⤷ Camera mode = Classic (default)\n",
+    "URL": "https://discord.com/channels/1286211974908215306/1464846582246543454",
+    "Player_1": {
+      "Unit": [
+        "Conductor Freddy",
+        "Withered Freddy",
+        "Shadow Freddy",
+        "Frozen King Foxy",
+        "Headless Horseman Mangle",
+        "Withered Bonnie"
+      ]
+    },
+    "Player_2": null,
+    "Player_3": null,
+    "Player_4": null
+  }
+}
