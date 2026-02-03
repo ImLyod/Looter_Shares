@@ -21,9 +21,9 @@
     "Queue": false,
     "Advanced": {
       "Enabled": true,
-      "X": 945,
-      "Y": 307,
-      "Hex": 3747114
+      "X": 956,
+      "Y": 459,
+      "Hex": 3024684
     }
   },
   "Units": [
@@ -91,8 +91,8 @@
       "Ability": -1
     },
     {
-      "X": 416,
-      "Y": 280,
+      "X": 409,
+      "Y": 279,
       "Window": 1,
       "Upgrade": "N",
       "Key": 54,
@@ -262,23 +262,9 @@
       "Ability": -1
     }
   ],
-  "UnitsMulti": null,
-  "Share": {
-    "Author": "Oscar",
-    "Notes": "⤷ Camera sensitivity = 1\n⤷ Shift lock = ON\n⤷ Camera mode = Classic (default)\n\n1P-4P Compatible",
-    "URL": "https://discord.com/channels/1286211974908215306/1467727607486353529",
-    "Player_1": {
-      "Unit": [
-        "Conductor",
-        "Purple Guy",
-        "Yeti Oni Bonnie (Can be replaced High DPS)",
-        "Scrooge Freddy",
-        "Shadow Freddy",
-        "Withered Freddy"
-      ]
-    },
     "Player_2": null,
     "Player_3": null,
     "Player_4": null
   }
 }
+
