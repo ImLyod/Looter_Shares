@@ -11,7 +11,7 @@
     "StopBossSwap": false
   },
   "Game": {
-    "Type": 2,
+    "Type": 1,
     "Game": 1,
     "Night": 1
   },
@@ -245,4 +245,5 @@
     "Player_3": null,
     "Player_4": null
   }
+
 }
