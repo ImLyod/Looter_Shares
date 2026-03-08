@@ -1,0 +1,230 @@
+{
+  "Title": "[4-2] NM by Thrund",
+  "Settings": {
+    "Difficulty": 0,
+    "Roblox": 1,
+    "Speed": 1,
+    "AutoSkip": true,
+    "UpgradeAll": false,
+    "RemoveAll": false,
+    "RemoveAlltimer": 1,
+    "StopBossSwap": false
+  },
+  "Game": {
+    "Type": 0,
+    "Game": 1,
+    "Night": 1
+  },
+  "Ritual": {
+    "Zoom": true,
+    "Look": false,
+    "Queue": false,
+    "Advanced": {
+      "Enabled": true,
+      "X": 701,
+      "Y": 276,
+      "Hex": 2512032
+    }
+  },
+  "Units": [
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 1,
+      "Upgrade": "TURN90",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 843,
+      "Y": 460,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 881,
+      "Y": 489,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 740,
+      "Y": 440,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 653,
+      "Y": 125,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 579,
+      "Y": 332,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 54,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 507,
+      "Y": 321,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 54,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 586,
+      "Y": 341,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 53,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 507,
+      "Y": 327,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 53,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 539,
+      "Y": 326,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 542,
+      "Y": 335,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 434,
+      "Y": 324,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 675,
+      "Y": 337,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 1,
+      "Upgrade": "UPGDALL",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 889,
+      "Y": 490,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 132,
+      "Y": 439,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 390,
+      "Y": 320,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 833,
+      "Y": 451,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 134,
+      "Y": 434,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 719,
+      "Y": 344,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    }
+  ],
+  "UnitsMulti": null,
+  "Share": {
+    "Author": "Thrund",
+    "Notes": "2:30 average time, sensitivity=1, shift lock=ON\n\nnightmare bb is required here\nonly starter that survives\n",
+    "URL": "https://discord.com/channels/1286211974908215306/1480085196484251781",
+    "Player_1": {
+      "Unit": [
+        "Valk",
+        "Overgrown",
+        "Nightmare BB (required)",
+        "Golden Cupcake",
+        "Deadeye Freddy",
+        "War Machine Foxy"
+      ]
+    },
+    "Player_2": null,
+    "Player_3": null,
+    "Player_4": null
+  }
+}
