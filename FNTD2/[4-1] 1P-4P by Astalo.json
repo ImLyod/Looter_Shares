@@ -1,8 +1,8 @@
 {
-  "Title": "[4-1] Easy by Astalo",
+  "Title": "[4-1] 1P-4P by Astalo",
   "Settings": {
     "Difficulty": 0,
-    "Roblox": 1,
+    "Roblox": 4,
     "Speed": 2,
     "AutoSkip": false,
     "UpgradeAll": true,
@@ -37,9 +37,18 @@
       "Ability": -1
     },
     {
-      "X": 433,
-      "Y": 319,
+      "X": 400,
+      "Y": 322,
       "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 126,
+      "Y": 333,
+      "Window": 2,
       "Upgrade": "N",
       "Key": 49,
       "Target": -1,
@@ -49,6 +58,15 @@
       "X": 633,
       "Y": 283,
       "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 552,
+      "Y": 281,
+      "Window": 2,
       "Upgrade": "N",
       "Key": 49,
       "Target": -1,
@@ -129,6 +147,33 @@
     {
       "X": 0,
       "Y": 0,
+      "Window": 3,
+      "Upgrade": "LBMF",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 3,
+      "Upgrade": "LBMF",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 365,
+      "Y": 343,
+      "Window": 3,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
       "Window": 1,
       "Upgrade": "UPGDALL",
       "Key": 0,
@@ -151,8 +196,35 @@
         "Mecha Cupcake (Any Support Dps)"
       ]
     },
-    "Player_2": null,
-    "Player_3": null,
-    "Player_4": null
+    "Player_2": {
+      "Unit": [
+        "Nightmare BB",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "Player_3": {
+      "Unit": [
+        "Valkyrie Chica (Any Dps only used 1)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "Player_4": {
+      "Unit": [
+        "nightmare bb",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
   }
 }
