@@ -1,0 +1,230 @@
+{
+  "Title": "[OG 3] by Thrund (UPDATED)",
+  "Settings": {
+    "Difficulty": 0,
+    "Roblox": 1,
+    "Speed": 2,
+    "AutoSkip": true,
+    "UpgradeAll": false,
+    "RemoveAll": true,
+    "RemoveAlltimer": 190,
+    "StopBossSwap": false
+  },
+  "Game": {
+    "Type": 1,
+    "Game": 1,
+    "Night": 1
+  },
+  "Ritual": {
+    "Zoom": true,
+    "Look": false,
+    "Queue": false,
+    "Advanced": {
+      "Enabled": true,
+      "X": 551,
+      "Y": 298,
+      "Hex": 15148590
+    }
+  },
+  "Units": [
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 1,
+      "Upgrade": "TURN180",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 1,
+      "Upgrade": "RLBMB",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 1,
+      "Upgrade": "LBMR",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 1,
+      "Upgrade": "WAIT:2",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 634,
+      "Y": 314,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 169,
+      "Y": 316,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 574,
+      "Y": 300,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 274,
+      "Y": 299,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 621,
+      "Y": 315,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 217,
+      "Y": 312,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 119,
+      "Y": 314,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 53,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 662,
+      "Y": 313,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 53,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 305,
+      "Y": 298,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 54,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 547,
+      "Y": 299,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 54,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 280,
+      "Y": 303,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 692,
+      "Y": 316,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 165,
+      "Y": 323,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 1,
+      "Upgrade": "UPGDALL",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 1,
+      "Upgrade": "UPGDALL",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 1,
+      "Upgrade": "UPGDALL",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    }
+  ],
+  "UnitsMulti": null,
+  "Share": {
+    "Author": "Thrund",
+    "Notes": "⤷ Camera sensitivity = 1\n⤷ Shift lock = ON\n⤷ Camera mode = Classic (default)\n\n5:30-6:00 mins average time, wave 80+",
+    "URL": "https://discord.com/channels/1286211974908215306/1476569915883262033",
+    "Player_1": {
+      "Unit": [
+        "Paperpals",
+        "Rockin bonnie",
+        "Overgrown foxy",
+        "Deadeye freddy",
+        "War machine foxy",
+        "Valk"
+      ]
+    },
+    "Player_2": null,
+    "Player_3": null,
+    "Player_4": null
+  }
+}
