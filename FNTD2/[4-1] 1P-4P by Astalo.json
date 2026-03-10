@@ -4,7 +4,7 @@
     "Difficulty": 0,
     "Roblox": 4,
     "Speed": 2,
-    "AutoSkip": false,
+    "AutoSkip": true,
     "UpgradeAll": true,
     "RemoveAll": false,
     "RemoveAlltimer": 1,
@@ -228,3 +228,4 @@
     }
   }
 }
+
