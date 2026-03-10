@@ -21,9 +21,9 @@
     "Queue": false,
     "Advanced": {
       "Enabled": true,
-      "X": 824,
-      "Y": 237,
-      "Hex": 2842020
+      "X": 500,
+      "Y": 226,
+      "Hex": 10685966
     }
   },
   "Units": [
@@ -37,9 +37,27 @@
       "Ability": -1
     },
     {
+      "X": 545,
+      "Y": 334,
+      "Window": 2,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
       "X": 683,
       "Y": 343,
       "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 168,
+      "Y": 371,
+      "Window": 2,
       "Upgrade": "N",
       "Key": 49,
       "Target": -1,
@@ -58,6 +76,15 @@
       "X": 718,
       "Y": 358,
       "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 394,
+      "Y": 335,
+      "Window": 2,
       "Upgrade": "N",
       "Key": 49,
       "Target": -1,
@@ -174,8 +201,35 @@
     {
       "X": 0,
       "Y": 0,
-      "Window": 1,
-      "Upgrade": "WAIT:150",
+      "Window": 2,
+      "Upgrade": "WAIT:170",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 44,
+      "Y": 289,
+      "Window": 2,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 708,
+      "Y": 437,
+      "Window": 2,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 757,
+      "Y": 437,
+      "Window": 2,
+      "Upgrade": "CLICK",
       "Key": 0,
       "Target": -1,
       "Ability": -1
@@ -229,7 +283,7 @@
   "UnitsMulti": null,
   "Share": {
     "Author": "Astalo",
-    "Notes": "This macro goes till about wave 80 and sells to end early. Every unit is most likely not swappable. Not tested with multiple accounts might need some tweaks to make it work.\n﻿",
+    "Notes": "This macro goes till about wave 80 and sells to sell before 5 Min SOLO Time will vary with more than 1 account. Every unit is most likely not swappable.",
     "URL": "https://discord.com/channels/1286211974908215306/1480469329836249181",
     "Player_1": {
       "Unit": [
@@ -241,8 +295,18 @@
         "Deadeye Freddy"
       ]
     },
-    "Player_2": null,
+    "Player_2": {
+      "Unit": [
+        "Conductor Toy Freddy",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
     "Player_3": null,
     "Player_4": null
   }
 }
+
