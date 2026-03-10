@@ -214,9 +214,37 @@
         "Mecha Cupcake (Any Support Dps)"
       ]
     },
-    "Player_2": null,
-    "Player_3": null,
-    "Player_4": null
+    "Player_2": {
+      "Unit": [
+        "Nightmare BB",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "Player_3": {
+      "Unit": [
+        "Withered Freddy",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "Player_4": {
+      "Unit": [
+        "nightmare bb",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
   }
 }
+
 
