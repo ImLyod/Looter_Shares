@@ -318,5 +318,22 @@
     }
   ],
   "UnitsMulti": null,
-  "Share": null
+  "Share": {
+    "Author": "Thrund",
+    "Notes": "Sensitivity = 1 (5 bars), shift lock ON, Sell keybind to 'V'",
+    "URL": "https://discord.com/channels/1286211974908215306/1483152478844354690",
+    "Player_1": {
+      "Unit": [
+        "Bonnie",
+        "Rockin bonnie",
+        "Valk",
+        "Deadeye",
+        "Overgrown",
+        "War machine foxy"
+      ]
+    },
+    "Player_2": null,
+    "Player_3": null,
+    "Player_4": null
+  }
 }
