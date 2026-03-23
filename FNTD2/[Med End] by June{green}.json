@@ -1,0 +1,222 @@
+{
+  "Title": "[Med End] by June",
+  "Settings": {
+    "Difficulty": 1,
+    "Roblox": 1,
+    "Speed": 2,
+    "AutoSkip": true,
+    "UpgradeAll": true,
+    "RemoveAll": false,
+    "RemoveAlltimer": 1,
+    "StopBossSwap": false
+  },
+  "Game": {
+    "Type": 2,
+    "Game": 1,
+    "Night": 1
+  },
+  "Ritual": {
+    "Zoom": true,
+    "Look": false,
+    "Queue": false,
+    "Advanced": {
+      "Enabled": false,
+      "X": -1,
+      "Y": -1,
+      "Hex": 0,
+      "ZoomIn": -1
+    }
+  },
+  "Units": [
+    {
+      "X": 658,
+      "Y": 127,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 322,
+      "Y": 558,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 390,
+      "Y": 476,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 317,
+      "Y": 564,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 342,
+      "Y": 391,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 310,
+      "Y": 567,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 420,
+      "Y": 327,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 373,
+      "Y": 390,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 655,
+      "Y": 440,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 433,
+      "Y": 330,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 684,
+      "Y": 461,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 441,
+      "Y": 430,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 397,
+      "Y": 430,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 650,
+      "Y": 455,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 509,
+      "Y": 504,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 53,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 609,
+      "Y": 446,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 488,
+      "Y": 459,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 642,
+      "Y": 453,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 339,
+      "Y": 499,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": -1,
+      "Ability": -1
+    }
+  ],
+  "UnitsMulti": null,
+  "Share": {
+    "Author": "June",
+    "Notes": "No advanced rituals added.\nRituals may fail from time to time, so add your own advanced rituals to fix them.",
+    "URL": "https://discord.com/channels/1286211974908215306/1485390465799950538",
+    "Player_1": {
+      "Unit": [
+        "Shiny Paper Pals (Vengeance)",
+        "Shiny Conductor Freddy (Investor)",
+        "Shiny Rockin Bonnie (Phantom)",
+        "Shiny Valkyrie Chica (Vengeance) / Shiny War Machine Foxy (Vengeance)",
+        "Shiny Phantom Bonnie (Vengeance)",
+        "NA"
+      ]
+    },
+    "Player_2": null,
+    "Player_3": null,
+    "Player_4": null
+  }
+}
