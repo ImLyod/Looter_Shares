@@ -1,0 +1,636 @@
+{
+  "Title": "Medieval [FASTER]",
+  "Settings": {
+    "Difficulty": 0,
+    "Roblox": 1,
+    "Speed": 3,
+    "AutoSkip": true,
+    "UpgradeAll": false,
+    "RemoveAll": true,
+    "RemoveAlltimer": 30,
+    "StopBossSwap": false
+  },
+  "Game": {
+    "Type": 1,
+    "Game": 1,
+    "Night": 1
+  },
+  "Ritual": {
+    "Zoom": true,
+    "Look": true,
+    "Queue": false,
+    "Advanced": {
+      "Enabled": true,
+      "X": 350,
+      "Y": 421,
+      "Hex": 9252139,
+      "ZoomIn": 6
+    }
+  },
+  "Units": [
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 1,
+      "Upgrade": "RTURN90",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 544,
+      "Y": 279,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 380,
+      "Y": 249,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 156,
+      "Y": 351,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 158,
+      "Y": 282,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 413,
+      "Y": 383,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 369,
+      "Y": 382,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 330,
+      "Y": 382,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 292,
+      "Y": 384,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 386,
+      "Y": 408,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 550,
+      "Y": 247,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 320,
+      "Y": 235,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 155,
+      "Y": 253,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 229,
+      "Y": 254,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 477,
+      "Y": 248,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 530,
+      "Y": 261,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 53,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 328,
+      "Y": 200,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 53,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 178,
+      "Y": 259,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 53,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 557,
+      "Y": 265,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 54,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 230,
+      "Y": 289,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 54,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 182,
+      "Y": 329,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 54,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 1,
+      "Upgrade": "UPGDALL",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 1,
+      "Upgrade": "LBML",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 1,
+      "Upgrade": "RLBMF",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 604,
+      "Y": 372,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 567,
+      "Y": 366,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 631,
+      "Y": 368,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 593,
+      "Y": 369,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 625,
+      "Y": 369,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 579,
+      "Y": 370,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 643,
+      "Y": 370,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 604,
+      "Y": 372,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 567,
+      "Y": 366,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 631,
+      "Y": 368,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 593,
+      "Y": 369,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 625,
+      "Y": 369,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 579,
+      "Y": 370,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 643,
+      "Y": 370,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 604,
+      "Y": 372,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 567,
+      "Y": 366,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 631,
+      "Y": 368,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 593,
+      "Y": 369,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 625,
+      "Y": 369,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 579,
+      "Y": 370,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 643,
+      "Y": 370,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 604,
+      "Y": 372,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 567,
+      "Y": 366,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 631,
+      "Y": 368,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 593,
+      "Y": 369,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 625,
+      "Y": 369,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 579,
+      "Y": 370,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 643,
+      "Y": 370,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 604,
+      "Y": 372,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 567,
+      "Y": 366,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 631,
+      "Y": 368,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 593,
+      "Y": 369,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 625,
+      "Y": 369,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 579,
+      "Y": 370,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 643,
+      "Y": 370,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 567,
+      "Y": 366,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 631,
+      "Y": 368,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 593,
+      "Y": 369,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 625,
+      "Y": 369,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 579,
+      "Y": 370,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 643,
+      "Y": 370,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    }
+  ],
+  "UnitsMulti": null,
+  "Share": {
+    "Author": "Oscar",
+    "Notes": "2:40 w70",
+    "URL": "https://discord.com/channels/1286211974908215306/1485734957942046741",
+    "Player_1": {
+      "Unit": [
+        "Bonnie",
+        "Valkyrie Chica",
+        "Fazcade",
+        "Withered Freddy",
+        "Rockin Bonnie",
+        "Overgrown Foxy"
+      ]
+    },
+    "Player_2": null,
+    "Player_3": null,
+    "Player_4": null
+  }
+}
