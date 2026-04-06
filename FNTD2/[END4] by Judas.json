@@ -1,0 +1,222 @@
+{
+  "Title": "[END4] by Judas",
+  "Settings": {
+    "Difficulty": 0,
+    "Roblox": 1,
+    "Speed": 3,
+    "AutoSkip": true,
+    "UpgradeAll": false,
+    "RemoveAll": false,
+    "RemoveAlltimer": 1,
+    "StopBossSwap": false
+  },
+  "Game": {
+    "Type": 1,
+    "Game": 1,
+    "Night": 1
+  },
+  "Ritual": {
+    "Zoom": true,
+    "Look": false,
+    "Queue": false,
+    "Advanced": {
+      "Enabled": false,
+      "X": -1,
+      "Y": -1,
+      "Hex": 0,
+      "ZoomIn": 8
+    }
+  },
+  "Units": [
+    {
+      "X": 774,
+      "Y": 350,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 159,
+      "Y": 327,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 732,
+      "Y": 349,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 195,
+      "Y": 309,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 700,
+      "Y": 348,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 134,
+      "Y": 333,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 800,
+      "Y": 360,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 696,
+      "Y": 359,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 220,
+      "Y": 330,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 732,
+      "Y": 363,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 199,
+      "Y": 340,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 776,
+      "Y": 405,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 53,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 266,
+      "Y": 319,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 53,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 712,
+      "Y": 404,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 54,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 105,
+      "Y": 339,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 54,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 40,
+      "Y": 293,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 741,
+      "Y": 482,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 0,
+      "Y": 0,
+      "Window": 1,
+      "Upgrade": "WAIT:90",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    },
+    {
+      "X": 704,
+      "Y": 439,
+      "Window": 1,
+      "Upgrade": "CLICK",
+      "Key": 0,
+      "Target": -1,
+      "Ability": -1
+    }
+  ],
+  "UnitsMulti": null,
+  "Share": {
+    "Author": "Judas",
+    "Notes": "macro goes to 84-85 wave.  Time from 3:1x to 3:2x. my first macro, dont blame me too much :pepesmile:",
+    "URL": "https://discord.com/channels/1286211974908215306/1490144754699079832",
+    "Player_1": {
+      "Unit": [
+        "Bonnie (shadow)",
+        "Rockin bonnie",
+        "Overgrown Foxy",
+        "War Machine Foxy",
+        "Valkyrie Chica",
+        "Deadeye freddy"
+      ]
+    },
+    "Player_2": null,
+    "Player_3": null,
+    "Player_4": null
+  }
+}
