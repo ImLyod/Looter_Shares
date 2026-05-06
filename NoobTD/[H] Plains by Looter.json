@@ -1,0 +1,247 @@
+{
+  "Title": "[H] Plains by Looter",
+  "Settings": {
+    "Difficulty": 2,
+    "Roblox": 1,
+    "Speed": 2,
+    "AutoSkip": false,
+    "UpgradeAll": false
+  },
+  "Game": {
+    "Type": 0,
+    "Game": 1,
+    "Night": 1
+  },
+  "Ritual": {
+    "Zoom": true,
+    "Look": true
+  },
+  "Units": [
+    {
+      "X": 446,
+      "Y": 271,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": 0
+    },
+    {
+      "X": 232,
+      "Y": 188,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 282,
+      "Y": 189,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 239,
+      "Y": 231,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 286,
+      "Y": 230,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 333,
+      "Y": 300,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": 0
+    },
+    {
+      "X": 232,
+      "Y": 188,
+      "Window": 1,
+      "Upgrade": "T:5",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 333,
+      "Y": 300,
+      "Window": 1,
+      "Upgrade": "T:5",
+      "Key": 51,
+      "Target": 0
+    },
+    {
+      "X": 67,
+      "Y": 67,
+      "Window": 1,
+      "Upgrade": "SPEED",
+      "Key": 51,
+      "Target": 0
+    },
+    {
+      "X": 232,
+      "Y": 188,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 282,
+      "Y": 189,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 524,
+      "Y": 316,
+      "Window": 1,
+      "Upgrade": "T:1",
+      "Key": 53,
+      "Target": 0
+    },
+    {
+      "X": 333,
+      "Y": 300,
+      "Window": 1,
+      "Upgrade": "T:3",
+      "Key": 51,
+      "Target": 0
+    },
+    {
+      "X": 239,
+      "Y": 231,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 286,
+      "Y": 230,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 333,
+      "Y": 300,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 51,
+      "Target": 0
+    },
+    {
+      "X": 407,
+      "Y": 276,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 51,
+      "Target": 0
+    },
+    {
+      "X": 524,
+      "Y": 316,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 53,
+      "Target": 0
+    },
+    {
+      "X": 356,
+      "Y": 384,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 51,
+      "Target": 0
+    },
+    {
+      "X": 401,
+      "Y": 315,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 49,
+      "Target": 0
+    },
+    {
+      "X": 445,
+      "Y": 372,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 52,
+      "Target": 0
+    },
+    {
+      "X": 522,
+      "Y": 362,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 54,
+      "Target": 0
+    },
+    {
+      "X": 522,
+      "Y": 412,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 53,
+      "Target": 0
+    },
+    {
+      "X": 399,
+      "Y": 386,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 54,
+      "Target": 0
+    },
+    {
+      "X": 521,
+      "Y": 275,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 54,
+      "Target": 0
+    },
+    {
+      "X": 475,
+      "Y": 461,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 54,
+      "Target": 0
+    }
+  ],
+  "Share": {
+    "Author": "Looter",
+    "Notes": "I believe slot 6 is replaceable, so feel free to try it out and let me know.",
+    "URL": "https://discord.com/channels/1286211974908215306/1335104697274732585",
+    "Player_1": {
+      "Unit": [
+        "1x1x1x1",
+        "Farm",
+        "Pyromancer",
+        "Musician",
+        "Railgunner",
+        "Catalyst"
+      ]
+    },
+    "Player_2": null,
+    "Player_3": null,
+    "Player_4": null
+  }
+}
