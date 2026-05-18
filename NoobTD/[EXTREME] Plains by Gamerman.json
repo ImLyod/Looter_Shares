@@ -1,0 +1,344 @@
+{
+  "Title": "[EXTREME] Plains by Gamerman",
+  "Settings": {
+    "Difficulty": 3,
+    "Roblox": 1,
+    "Speed": 3,
+    "AutoSkip": true,
+    "UpgradeAll": false
+  },
+  "Game": {
+    "Type": 0,
+    "Map": 0,
+    "Game": 1,
+    "Night": 1
+  },
+  "Ritual": {
+    "Zoom": true,
+    "Look": true
+  },
+  "Units": [
+    {
+      "X": 393,
+      "Y": 232,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": 0
+    },
+    {
+      "X": 108,
+      "Y": 169,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 222,
+      "Y": 171,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 126,
+      "Y": 255,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 330,
+      "Y": 75,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 553,
+      "Y": 281,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": 0
+    },
+    {
+      "X": 335,
+      "Y": 248,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 554,
+      "Y": 211,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": 0
+    },
+    {
+      "X": 628,
+      "Y": 203,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": 0
+    },
+    {
+      "X": 550,
+      "Y": 351,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 54,
+      "Target": 0
+    },
+    {
+      "X": 265,
+      "Y": 248,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 391,
+      "Y": 197,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 521,
+      "Y": 310,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 52,
+      "Target": 0
+    },
+    {
+      "X": 271,
+      "Y": 293,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 524,
+      "Y": 274,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 51,
+      "Target": 0
+    },
+    {
+      "X": 562,
+      "Y": 267,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 51,
+      "Target": 0
+    },
+    {
+      "X": 523,
+      "Y": 354,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 54,
+      "Target": 0
+    },
+    {
+      "X": 560,
+      "Y": 419,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 53,
+      "Target": 0
+    },
+    {
+      "X": 423,
+      "Y": 296,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 52,
+      "Target": 0
+    },
+    {
+      "X": 425,
+      "Y": 363,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 52,
+      "Target": 0
+    },
+    {
+      "X": 421,
+      "Y": 433,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 52,
+      "Target": 0
+    },
+    {
+      "X": 692,
+      "Y": 227,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 51,
+      "Target": 0
+    },
+    {
+      "X": 565,
+      "Y": 493,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 51,
+      "Target": 0
+    },
+    {
+      "X": 505,
+      "Y": 564,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 51,
+      "Target": 0
+    },
+    {
+      "X": 683,
+      "Y": 369,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 51,
+      "Target": 0
+    },
+    {
+      "X": 759,
+      "Y": 370,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 51,
+      "Target": 0
+    },
+    {
+      "X": 695,
+      "Y": 148,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 51,
+      "Target": 0
+    },
+    {
+      "X": 541,
+      "Y": 140,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 51,
+      "Target": 0
+    },
+    {
+      "X": 699,
+      "Y": 504,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 51,
+      "Target": 0
+    },
+    {
+      "X": 570,
+      "Y": 565,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 51,
+      "Target": 0
+    },
+    {
+      "X": 329,
+      "Y": 557,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 51,
+      "Target": 0
+    },
+    {
+      "X": 832,
+      "Y": 281,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 52,
+      "Target": 0
+    },
+    {
+      "X": 835,
+      "Y": 368,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 52,
+      "Target": 0
+    },
+    {
+      "X": 835,
+      "Y": 452,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 52,
+      "Target": 0
+    },
+    {
+      "X": 829,
+      "Y": 532,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 52,
+      "Target": 0
+    },
+    {
+      "X": 834,
+      "Y": 617,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 52,
+      "Target": 0
+    },
+    {
+      "X": 345,
+      "Y": 426,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 52,
+      "Target": 0
+    },
+    {
+      "X": 258,
+      "Y": 426,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 52,
+      "Target": 0
+    }
+  ],
+  "Share": {
+    "Author": "Gamerman",
+    "Notes": "TOP DOWN ON\n\nTHIS IS 3X SPEED IF YOU WANT TO MODIFY IT JUST LOAD IT AND SET IT TO 2X N SAVE\n\n2.2k coins per match every 4 minutes \n\nextreme test 3 = 3x speed\nextreme test 4 = 2x speed ",
+    "URL": "https://discord.com/channels/1286211974908215306/1503422060628676679",
+    "Player_1": {
+      "Unit": [
+        "1x1x1x1 APEX (required)",
+        "Shiny farm (required)",
+        "Railgunner APEX (required)",
+        "Retro Minigunner APEX (required)",
+        "Shiny Musician APEX (required)",
+        "Shiny Veteran APEX (required)"
+      ]
+    },
+    "Player_2": null,
+    "Player_3": null,
+    "Player_4": null
+  }
+}
