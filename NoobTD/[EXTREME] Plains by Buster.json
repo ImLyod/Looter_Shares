@@ -1,0 +1,248 @@
+{
+  "Title": "[EXTREME] Plains by Buster",
+  "Settings": {
+    "Difficulty": 3,
+    "Roblox": 1,
+    "Speed": 2,
+    "AutoSkip": false,
+    "UpgradeAll": false
+  },
+  "Game": {
+    "Type": 0,
+    "Map": 0,
+    "Game": 1,
+    "Night": 1
+  },
+  "Ritual": {
+    "Zoom": true,
+    "Look": true
+  },
+  "Units": [
+    {
+      "X": 342,
+      "Y": 303,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": 0
+    },
+    {
+      "X": 418,
+      "Y": 267,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": 0
+    },
+    {
+      "X": 261,
+      "Y": 423,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 253,
+      "Y": 478,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 248,
+      "Y": 535,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 204,
+      "Y": 499,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 380,
+      "Y": 380,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": 0
+    },
+    {
+      "X": 625,
+      "Y": 352,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 51,
+      "Target": 0
+    },
+    {
+      "X": 522,
+      "Y": 349,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 53,
+      "Target": 0
+    },
+    {
+      "X": 376,
+      "Y": 380,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 51,
+      "Target": 0
+    },
+    {
+      "X": 252,
+      "Y": 478,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 260,
+      "Y": 421,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 201,
+      "Y": 501,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 247,
+      "Y": 536,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 526,
+      "Y": 348,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 53,
+      "Target": 0
+    },
+    {
+      "X": 425,
+      "Y": 386,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 52,
+      "Target": 0
+    },
+    {
+      "X": 524,
+      "Y": 396,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 53,
+      "Target": 0
+    },
+    {
+      "X": 524,
+      "Y": 312,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 53,
+      "Target": 0
+    },
+    {
+      "X": 527,
+      "Y": 437,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 53,
+      "Target": 0
+    },
+    {
+      "X": 448,
+      "Y": 304,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 54,
+      "Target": 0
+    },
+    {
+      "X": 519,
+      "Y": 276,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 54,
+      "Target": 0
+    },
+    {
+      "X": 336,
+      "Y": 389,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 54,
+      "Target": 0
+    },
+    {
+      "X": 476,
+      "Y": 467,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 54,
+      "Target": 0
+    },
+    {
+      "X": 375,
+      "Y": 466,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 54,
+      "Target": 0
+    },
+    {
+      "X": 455,
+      "Y": 365,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 54,
+      "Target": 0
+    },
+    {
+      "X": 535,
+      "Y": 495,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 54,
+      "Target": 0
+    }
+  ],
+  "Share": {
+    "Author": "Buster",
+    "Notes": "Must have top down OFF\n\nSet to 3x in Editor if you want.\nDefault is 2x",
+    "URL": "https://discord.com/channels/1286211974908215306/1503418168469618829",
+    "Player_1": {
+      "Unit": [
+        "1x1x1x1",
+        "Farm",
+        "Pyromancer",
+        "Musician",
+        "Zenith",
+        "Catalyst"
+      ]
+    },
+    "Player_2": null,
+    "Player_3": null,
+    "Player_4": null
+  }
+}
