@@ -1,0 +1,232 @@
+{
+  "Title": "[EXTREME] Plains by Ultrevo",
+  "Settings": {
+    "Difficulty": 3,
+    "Roblox": 1,
+    "Speed": 3,
+    "AutoSkip": true,
+    "UpgradeAll": false
+  },
+  "Game": {
+    "Type": 0,
+    "Map": 0,
+    "Game": 1,
+    "Night": 1
+  },
+  "Ritual": {
+    "Zoom": true,
+    "Look": true
+  },
+  "Units": [
+    {
+      "X": 534,
+      "Y": 308,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": 0
+    },
+    {
+      "X": 218,
+      "Y": 439,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 265,
+      "Y": 439,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 521,
+      "Y": 221,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": 0
+    },
+    {
+      "X": 447,
+      "Y": 388,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": 0
+    },
+    {
+      "X": 350,
+      "Y": 381,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 49,
+      "Target": 0
+    },
+    {
+      "X": 208,
+      "Y": 498,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 263,
+      "Y": 493,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 535,
+      "Y": 347,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 54,
+      "Target": 0
+    },
+    {
+      "X": 447,
+      "Y": 388,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 52,
+      "Target": 0
+    },
+    {
+      "X": 218,
+      "Y": 439,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 265,
+      "Y": 439,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 526,
+      "Y": 269,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 51,
+      "Target": 0
+    },
+    {
+      "X": 533,
+      "Y": 389,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 54,
+      "Target": 0
+    },
+    {
+      "X": 536,
+      "Y": 431,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 54,
+      "Target": 0
+    },
+    {
+      "X": 506,
+      "Y": 463,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 54,
+      "Target": 0
+    },
+    {
+      "X": 409,
+      "Y": 269,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 53,
+      "Target": 0
+    },
+    {
+      "X": 452,
+      "Y": 267,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 53,
+      "Target": 0
+    },
+    {
+      "X": 459,
+      "Y": 307,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 53,
+      "Target": 0
+    },
+    {
+      "X": 458,
+      "Y": 344,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 53,
+      "Target": 0
+    },
+    {
+      "X": 657,
+      "Y": 359,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 52,
+      "Target": 0
+    },
+    {
+      "X": 396,
+      "Y": 388,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 52,
+      "Target": 0
+    },
+    {
+      "X": 521,
+      "Y": 221,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 49,
+      "Target": 0
+    },
+    {
+      "X": 534,
+      "Y": 308,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 49,
+      "Target": 0
+    }
+  ],
+  "Share": {
+    "Author": "@Ultrevo",
+    "Notes": "1hp + Rush + Beefy + 2x Boss (Single Account)\n1hp + Rush + Beefy (Duo Account)\n1hp + Rush Modifiers (Trio Account)\n\n\nIf you're planning to run Multi-Instance PLEASE be aware that the macro has to be opened AFTER all instances are open,\nthe Instances highest on the Y axis will be how the macro determines which account is the first, second, esc.",
+    "URL": "https://discord.com/channels/1286211974908215306/1505654460351778898",
+    "Player_1": {
+      "Unit": [
+        "Shiny Apex Retro Pyromancer",
+        "Shiny Farm",
+        "Shiny Deadeye Retro Veteren",
+        "Retro King",
+        "Void Apex Retro Juggernaut",
+        "Void Apex Retro Zenith"
+      ]
+    },
+    "Player_2": null,
+    "Player_3": null,
+    "Player_4": null
+  }
+}

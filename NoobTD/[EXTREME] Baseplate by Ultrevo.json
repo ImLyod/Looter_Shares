@@ -1,0 +1,224 @@
+{
+  "Title": "[EXTREME] Baseplate by Ultrevo",
+  "Settings": {
+    "Difficulty": 3,
+    "Roblox": 1,
+    "Speed": 3,
+    "AutoSkip": true,
+    "UpgradeAll": false
+  },
+  "Game": {
+    "Type": 0,
+    "Map": 1,
+    "Game": 1,
+    "Night": 1
+  },
+  "Ritual": {
+    "Zoom": true,
+    "Look": true
+  },
+  "Units": [
+    {
+      "X": 356,
+      "Y": 371,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": 0
+    },
+    {
+      "X": 590,
+      "Y": 246,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 49,
+      "Target": 0
+    },
+    {
+      "X": 686,
+      "Y": 488,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 735,
+      "Y": 486,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 682,
+      "Y": 438,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 590,
+      "Y": 210,
+      "Window": 1,
+      "Upgrade": "N",
+      "Key": 52,
+      "Target": 0
+    },
+    {
+      "X": 590,
+      "Y": 241,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 49,
+      "Target": 0
+    },
+    {
+      "X": 729,
+      "Y": 437,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 735,
+      "Y": 486,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 686,
+      "Y": 488,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 682,
+      "Y": 438,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 50,
+      "Target": 0
+    },
+    {
+      "X": 490,
+      "Y": 303,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 54,
+      "Target": 0
+    },
+    {
+      "X": 533,
+      "Y": 304,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 51,
+      "Target": 0
+    },
+    {
+      "X": 449,
+      "Y": 302,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 54,
+      "Target": 0
+    },
+    {
+      "X": 408,
+      "Y": 301,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 54,
+      "Target": 0
+    },
+    {
+      "X": 408,
+      "Y": 261,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 54,
+      "Target": 0
+    },
+    {
+      "X": 590,
+      "Y": 205,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 52,
+      "Target": 0
+    },
+    {
+      "X": 587,
+      "Y": 169,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 52,
+      "Target": 0
+    },
+    {
+      "X": 594,
+      "Y": 302,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 52,
+      "Target": 0
+    },
+    {
+      "X": 521,
+      "Y": 239,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 53,
+      "Target": 0
+    },
+    {
+      "X": 476,
+      "Y": 238,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 53,
+      "Target": 0
+    },
+    {
+      "X": 519,
+      "Y": 198,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 53,
+      "Target": 0
+    },
+    {
+      "X": 477,
+      "Y": 199,
+      "Window": 1,
+      "Upgrade": "Y",
+      "Key": 53,
+      "Target": 0
+    }
+  ],
+  "Share": {
+    "Author": "@Ultrevo",
+    "Notes": "1hp + Rush + 2x Boss (Single Account)\n1hp + Rush (Duel Account)\n\nIf you're planning to run Multi-Instance PLEASE be aware that the macro has to be opened AFTER all instances are open,\nthe Instances highest on the Y axis will be how the macro determines which account is the first, second, esc.",
+    "URL": "https://discord.com/channels/1286211974908215306/1505846307703754842",
+    "Player_1": {
+      "Unit": [
+        "Shiny Apex Retro Pyromancer",
+        "Shiny Farm",
+        "Shiny Deadeye Retro Veteran",
+        "Retro King",
+        "Void Apex Retro Juggernaut",
+        "Void Apex Retro Zenith"
+      ]
+    },
+    "Player_2": null,
+    "Player_3": null,
+    "Player_4": null
+  }
+}
